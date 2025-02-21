@@ -1,7 +1,7 @@
 <?php
 echo "Введите число N: ";
 $n = readline();
-$sum = 0;
+$sum = 1;
 $i = 1;
 while ($i <= $n) {
     $sum *= $i;
